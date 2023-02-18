@@ -20,3 +20,15 @@ let {description, size} = await inquirer
        },
     
     ])
+
+    let readmeText =  `# Project Description
+    ${description}
+    
+    ## The second largest heading
+
+   
+
+
+    ###### The smallest heading
+    
+    `
