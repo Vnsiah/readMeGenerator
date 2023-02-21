@@ -46,8 +46,11 @@ This application is covered by the ${answers.license} license.
 
 
 ## Questions
-Have questions about this project?  
-GitHub: https://github.com/${answers.github}  
+Have questions about this project? 
+${answers.questions}<br />
+<br />
+:octocat: Find me on GitHub: [${answers.username}](https://github.com/${answers.username})<br />
+<br />
 Email: ${answers.email}
 
 

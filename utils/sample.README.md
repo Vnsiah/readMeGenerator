@@ -1,11 +1,11 @@
-# READMEGenerator 
+# READMEGenerator
 
   
   
   
 
 ## Description
- A node.js READMeGenerator apps that allows users to quickly and easily create a README file by using a command-line application .T is allows the project creator to devote more time to working on the project.
+ A node.js READMeGenerator apps that allows users to quickly and easily create a README file by using a command-line application .Tthis  allows the project creator to devote more time to working on the project.
 
 
 ## Table of Contents
@@ -30,11 +30,11 @@ Once software is downloaded and Node packages are initialized, it's time to get 
 
 
 ## Contributing
- Kate
+  Kate
 
 
 ## Tests
- No test is included
+  No test is included
 
 ## License
 ![badge](https://img.shields.io/badge/license-undefined-brightgreen)
