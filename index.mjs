@@ -1,6 +1,6 @@
 import inquirer from "inquirer";
 import fs from "fs/promises";
-// import generateMarkdown from "./utils/generateMarkdown"
+import generateMarkdown from "./utils/generateMarkdown.js";
 
 
 
@@ -61,8 +61,8 @@ let makePage = () => { inquirer
       message: 'what license is needed for this project?',
       choices: [
         "MIT",
-        "GNU",
-        "ISC",
+        "GPL",
+        "CC--0",
         "Mozilla",
         "Open"
       ],
@@ -77,6 +77,7 @@ let makePage = () => { inquirer
  
 const template = generateReadMe(answers)
 console.log(template)
+
 fs.writeFile('./utils/sample.README.md', template, (err) =>
   err ? console.error(err) : console.log('Success!')
 );
