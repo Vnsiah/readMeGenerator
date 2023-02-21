@@ -5,7 +5,7 @@ READMEGenerator
 
 ## Description
 
-Having a high-quality README gor your GitHub profile is an extremely important aspect of your public identity as a developer. A well-crafted READMe will allows you to demonstrate your skills to other developers as well as potential employers. An important component of your GitHub profile—and one that many new developers often overlook—is the README.md file. A good README will helps you stand out among other developers putting their work on GitHub.
+Having a high-quality README for your GitHub profile is an extremely important aspect of your public identity as a developer. A well-crafted READMe will allows you to demonstrate your skills to other developers as well as potential employers. An important component of your GitHub profile—and one that many new developers often overlook—is the README.md file. A good README will helps you stand out among other developers putting their work on GitHub.
 
 With this in mind, Iam going to create a README generator that you no longer need to create a professional README from scratch. Simply answer a few questions and it will create a nice professional README for you.
 
@@ -31,7 +31,7 @@ With this in mind, Iam going to create a README generator that you no longer nee
 
 
     ## Installation
-   VScode
+   VS code,
    node.js
 
 
@@ -42,7 +42,9 @@ node index.js
 
 ## Questions
 Have any questions about this project? Reach out!
-GitHub: https://github.com/Vnsiah
+
+GitHub: https://github.com/Vnsiah,
+
 Email: vidansiah@hotmail.com
 
 

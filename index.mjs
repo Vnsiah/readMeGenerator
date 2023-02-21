@@ -1,6 +1,6 @@
 import inquirer from "inquirer";
 import fs from "fs/promises";
-import generateMarkdown from "./utils/generateMarkdown.js";
+import generateReadMe from "./utils/generateMarkdown.js";
 
 
 
@@ -67,10 +67,6 @@ let makePage = () => { inquirer
         "Open"
       ],
 
-      filter(val) {
-        return val.toLowerCase();
-      },
-
     },
 
   ]).then(function (answers){
@@ -93,27 +89,6 @@ fs.writeFile('./utils/sample.README.md', template, (err) =>
 makePage()
 
 
-// let readmeText = `# Project Description
-//     ${description}
-    
-//     ## The second largest heading
 
-//     ${generateLicense(size)}
-
-
-//     ###### The smallest heading
-    
-//     `
-// fs.writeFile("README.md", readmeText)
-
-// function generateLicense(license) {
-
-//   if (license === "Jumbo") {
-
-//     return "[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)"
-//   }
-
-
-// }
 
 
