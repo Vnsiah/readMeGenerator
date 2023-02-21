@@ -1,7 +1,7 @@
 {
   "name": "readmegenerator",
   "version": "1.0.0",
-  "description": "",
+  "description": "A node application that creates a professional readme based on what the user input in the questions",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/Vnsiah/readMeGenerator.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Vida Nsiah",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Vnsiah/readMeGenerator/issues"

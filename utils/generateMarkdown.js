@@ -1,4 +1,5 @@
 // function to generate markdown for README
+
 function generateReadMe(answers) {
   return `# ${answers.projectTitle}
 
@@ -9,4 +10,4 @@ function generateReadMe(answers) {
 `;
 }
 
-module.exports = generateMarkdown;
+module.exports = generateReadMe;
