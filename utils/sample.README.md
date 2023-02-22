@@ -19,7 +19,7 @@
 
 
 ## Installation
- Defore you can use this project, instal VS Ccode, Node.JS. 
+ Before you can use this project, instal VS Ccode, Node.JS. 
 
 
 ## Usage
@@ -30,7 +30,7 @@ Once software is downloaded and Node packages are initialized, it's time to get 
 
 
 ## Contributing
-  Kate
+  Scott Nelson (TA)
 
 
 ## Tests
@@ -43,8 +43,11 @@ This application is covered by the undefined license.
 
 
 ## Questions
-Have questions about this project?  
-GitHub: https://github.com/undefined  
+
+Email Me<br />
+<br />
+Have questions about this project? 
+GitHub: https://github.com/undefined 
 Email: vidansiah@hotmail.com
 
 

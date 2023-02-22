@@ -29,8 +29,14 @@ With this in mind, Iam going to create a README generator that you no longer nee
     * When a user enters their email address then this is added to the section of the README entitled Questions, with instructions on how to reach them with additional questions
     * When a user clicks on the links in the **Table of Contents** then they are taken to the corresponding section of the README
 
+ ## Screenshot
 
-    ## Installation
+ this is the screenshot of the READMEGenerator apps, the promt is working ok.
+ 
+ <img width="1018" alt="Screenshot 2023-02-22 at 08 52 09-1" src="https://user-images.githubusercontent.com/117393835/220626934-e1189e90-dfac-42e7-a3c1-5de20b993eef.png">
+
+
+ ## Installation
    VS code,
    node.js
 
