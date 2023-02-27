@@ -1,4 +1,4 @@
-# readmeGenerator
+# READMEGenerator
 
   
   
@@ -19,7 +19,7 @@
 
 
 ## Installation
-  Before you can use this project, instal VS Ccode, Node.JS. 
+ efore you can use this project, instal VS Ccode, Node.JS. 
 
 
 ## Usage
@@ -30,7 +30,7 @@ Once software is downloaded and Node packages are initialized, it's time to get 
 
 
 ## Contributing
-  Scott Nelson (TA)
+ Scott Nelson (TA)
 
 
 ## Tests
