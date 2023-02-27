@@ -1,4 +1,4 @@
-# READMEGenerator
+# readmeGenerator
 
   
   
@@ -19,7 +19,7 @@
 
 
 ## Installation
- Before you can use this project, instal VS Ccode, Node.JS. 
+  Before you can use this project, instal VS Ccode, Node.JS. 
 
 
 ## Usage
@@ -37,17 +37,17 @@ Once software is downloaded and Node packages are initialized, it's time to get 
   No test is included
 
 ## License
-![badge](https://img.shields.io/badge/license-undefined-brightgreen)
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 <br />
-This application is covered by the undefined license.
+This application is covered by the MIT license.
 
 
 ## Questions
 
-Email Me<br />
+Email me<br />
 <br />
 Have questions about this project? 
-GitHub: https://github.com/undefined 
+GitHub: https://github.com/vnsiah@github.com 
 Email: vidansiah@hotmail.com
 
 

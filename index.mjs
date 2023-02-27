@@ -57,7 +57,7 @@ let makePage = () => { inquirer
     },
         {
       type: 'list',
-      name: 'lincense',
+      name: 'license',
       message: 'what license is needed for this project?',
       choices: [
         "MIT",

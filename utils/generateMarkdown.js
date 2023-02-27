@@ -50,7 +50,7 @@ This application is covered by the ${answers.license} license.
 ${answers.questions}<br />
 <br />
 Have questions about this project? 
-GitHub: https://github.com/${answers.github} 
+GitHub: https://github.com/${answers.username} 
 Email: ${answers.email}
 
 
